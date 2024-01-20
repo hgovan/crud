@@ -2,4 +2,4 @@
 .env
 
 # Ignore venv folder (Python virtual environment)
-venv/
+ven/
